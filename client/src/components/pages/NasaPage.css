@@ -1,0 +1,56 @@
+.nasa-page-container {
+  padding: 15px ; 
+  text-align: center;
+  color: #fff;
+}
+
+.nasa-page-container h1 {
+  font-size: 2.5em;
+  margin-bottom: 10px;
+}
+
+.nasa-page-container p {
+  font-size: 1.2em;
+  margin-bottom: 20px;
+}
+
+.image-container {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.nasa-image {
+  max-width: 100%;
+  height: auto;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.mars-photos-container {
+  margin-top: 40px;
+}
+
+.mars-photos-container h2 {
+  font-size: 2em;
+  margin-bottom: 20px;
+}
+
+.mars-photos-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.mars-photo {
+  margin: 10px;
+  text-align: center;
+}
+
+.mars-image {
+  width: 200px;
+  height: auto;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  margin-bottom: 10px;
+}
